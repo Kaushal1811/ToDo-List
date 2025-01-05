@@ -1,10 +1,7 @@
-# React + Vite
+# To-Do List application
+  - Developed a To-Do List application using Redux, Enhance user Experience by ensuring efficiently addition,editing, deletion and updates in To-Do application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Technologies used
+ -React, Tailwindcss 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# ToDo-List
-# ToDo-List
